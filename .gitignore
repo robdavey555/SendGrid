@@ -7,3 +7,6 @@
 /SendGrid.Service/.vs
 /SendGrid.Service/bin/Debug/netcoreapp3.1
 /SendGrid.Service/appsettings.Development.json
+/SendGrid.Test/bin/Debug/netcoreapp3.1
+/SendGrid.Test/obj
+/SendGrid.Test/SendGrid.Test.csproj.user
