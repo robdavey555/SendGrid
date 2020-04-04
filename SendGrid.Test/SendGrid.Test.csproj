@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SendGrid\SendGrid.Service\SendGrid.Service.csproj" />
+    <ProjectReference Include="..\SendGrid.Service\SendGrid.Service.csproj" />
   </ItemGroup>
 
 </Project>
